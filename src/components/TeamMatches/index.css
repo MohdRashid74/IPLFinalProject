@@ -1,0 +1,31 @@
+.red-container {
+  background-image: linear-gradient(to top, #d91c1f, #a4261d);
+  background-size: cover;
+  height: 100%;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 2px;
+}
+.loader2 {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.team-banner-container {
+  height: 50%;
+  width: 90%;
+}
+.team-banner {
+  border-radius: 10px;
+  height: 90%;
+  width: 100%;
+}
+.match {
+  color: white;
+}
